@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.logoaht {
+    height: 95px;
+    background-color: white;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+
+img.imgicon {
+    max-height: 27px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.liitem {
+    margin-bottom: 7px !important;
+}
+
+.margin.dtth {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.colorC {
+    background-color: #2b388f;
+}
+
+.textC {
+    color: white;
+    font-weight: bold;
+}
+
+.card-body.maindtth {
+    margin-bottom: -20px;
+}
+
+.tieude {
+    text-align: center;
+    font-size: 6vh;
+    margin-top: 1vw;
+    font-weight: 500;
+    color: #2b388f;
+    font-family: "Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+.picker {
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+}
+.hiden {
+    display: none;
+}
+
+.GateChange {
+    cursor: pointer;
+}
+.auto {
+    cursor: pointer;
+}
+.bold {
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Hanpl\AHTWORK\Digital Signage\AHT_DIGSIG_HUB_V3\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2025-05-16T13:28:26.0346889Z||;True|2025-05-15T15:20:25.5752596+07:00||;True|2025-05-14T08:09:52.9181883+07:00||;True|2025-05-13T01:48:49.1368202+07:00||;True|2025-05-13T01:16:39.9880650+07:00||;True|2025-05-11T21:00:42.2438080+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
