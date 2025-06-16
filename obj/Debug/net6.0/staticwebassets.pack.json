@@ -1,1735 +1,1735 @@
 {
   "Files": [
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DigitalSignageSevice.bundle.scp.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DigitalSignageSevice.bundle.scp.css",
       "PackagePath": "staticwebassets\\DigitalSignageSevice.bundle.scp.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\Font.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\Font.css",
       "PackagePath": "staticwebassets\\css\\Font.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\adminlte.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\css\\adminlte.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\adminlte.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\css\\adminlte.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\adminlte.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\css\\adminlte.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\adminlte.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\jquery.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\jquery.min.js",
       "PackagePath": "staticwebassets\\css\\jquery.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\css\\site.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\adminlte.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\adminlte.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\adminlte.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\img\\AHT.png",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\img\\AHT.png",
       "PackagePath": "staticwebassets\\dist\\img\\AHT.png"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\img\\AHTw.png",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\img\\AHTw.png",
       "PackagePath": "staticwebassets\\dist\\img\\AHTw.png"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\img\\AdminLTELogo.png",
       "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\img\\avatar.png",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\img\\avatar.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\.eslintrc.json",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\adminlte.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\adminlte.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\adminlte.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\adminlte.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\adminlte.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\adminlte.min.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\adminlte.min.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\demo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\demo.js",
       "PackagePath": "staticwebassets\\dist\\js\\demo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\pages\\dashboard.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\pages\\dashboard2.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\dist\\js\\pages\\dashboard3.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\favicon.ico",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\js\\dashboard.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\js\\dashboard.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\js\\jquery.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\js\\site.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
       "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.colVis.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.colVis.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.colVis.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.flash.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.flash.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.flash.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.flash.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.html5.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.html5.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.html5.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.html5.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.html5.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.html5.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.print.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.print.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.print.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.print.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\buttons.print.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\buttons.print.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\dataTables.buttons.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\js\\dataTables.responsive.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\js\\dataTables.responsive.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\js\\dataTables.responsive.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\js\\dataTables.scroller.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\js\\dataTables.scroller.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\js\\dataTables.scroller.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\css\\select.bootstrap4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\css\\select.bootstrap4.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\css\\select.bootstrap4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\css\\select.bootstrap4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\css\\select.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\css\\select.bootstrap4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\js\\dataTables.select.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\js\\dataTables.select.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\js\\dataTables.select.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\js\\dataTables.select.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\js\\dataTables.select.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\js\\dataTables.select.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\js\\select.bootstrap4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\js\\select.bootstrap4.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\js\\select.bootstrap4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables-select\\js\\select.bootstrap4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables-select\\js\\select.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables-select\\js\\select.bootstrap4.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables\\jquery.dataTables.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\plugins\\datatables\\jquery.dataTables.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\datatables\\jquery.dataTables.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\datatables\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatables\\jquery.dataTables.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\daterangepicker\\daterangepicker.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\daterangepicker\\daterangepicker.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\icheck-bootstrap\\LICENSE",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\icheck-bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
       "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
       "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\jquery.vmap.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\jquery.vmap.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\jquery.vmap.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\jquery.vmap.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\jqvmap.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\jqvmap.css",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\jqvmap.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\jqvmap.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\jqvmap.min.css",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\jqvmap.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\af.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\af.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\af.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-dz.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-dz.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-dz.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-kw.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-kw.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-kw.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-ly.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-ly.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ly.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-ma.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-ma.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ma.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-sa.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-sa.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-sa.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar-tn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar-tn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-tn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ar.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ar.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\az.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\az.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\az.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\be.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\be.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\be.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bg.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bg.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bg.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bm.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bm.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bm.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bn-bd.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bn-bd.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn-bd.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\br.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\br.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\br.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\bs.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\bs.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bs.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ca.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ca.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ca.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\cs.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\cs.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cs.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\cv.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\cv.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cv.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\cy.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\cy.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cy.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\da.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\da.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\da.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\de-at.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\de-at.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-at.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\de-ch.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\de-ch.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-ch.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\de.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\de.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\dv.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\dv.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\dv.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\el.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\el.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\el.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-SG.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-SG.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-SG.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-au.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-au.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-au.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-ca.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-ca.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ca.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-gb.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-gb.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-gb.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-ie.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-ie.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ie.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-il.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-il.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-il.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-in.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-in.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-in.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\en-nz.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\en-nz.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-nz.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\eo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\eo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\es-do.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\es-do.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-do.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\es-mx.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\es-mx.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-mx.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\es-us.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\es-us.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-us.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\es.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\es.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\et.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\et.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\et.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\eu.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\eu.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eu.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fa.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fa.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fa.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fi.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fi.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fi.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fil.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fil.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fil.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fr-ca.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fr-ca.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ca.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fr-ch.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fr-ch.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ch.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fr.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\fy.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\fy.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fy.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ga.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ga.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ga.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\gd.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\gd.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gd.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\gl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\gl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\gom-deva.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\gom-deva.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-deva.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\gom-latn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\gom-latn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-latn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\gu.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\gu.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gu.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\he.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\he.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\he.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\hi.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\hi.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hi.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\hr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\hr.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\hu.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\hu.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hu.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\hy-am.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\hy-am.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hy-am.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\id.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\id.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\id.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\is.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\is.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\is.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\it-ch.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\it-ch.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it-ch.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\it.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\it.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ja.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ja.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ja.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\jv.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\jv.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\jv.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ka.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ka.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ka.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\kk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\kk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\km.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\km.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\km.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\kn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\kn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ko.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ko.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ko.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ku.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ku.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ku.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ky.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ky.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ky.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\lb.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\lb.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lb.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\lo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\lo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\lt.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\lt.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lt.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\lv.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\lv.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lv.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\me.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\me.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\me.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\mi.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\mi.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mi.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\mk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\mk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ml.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ml.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ml.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\mn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\mn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\mr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\mr.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ms-my.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ms-my.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms-my.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ms.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ms.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\mt.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\mt.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mt.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\my.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\my.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\my.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\nb.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\nb.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nb.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ne.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ne.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ne.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\nl-be.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\nl-be.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl-be.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\nl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\nl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\nn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\nn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\oc-lnc.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\oc-lnc.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\oc-lnc.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\pa-in.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\pa-in.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pa-in.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\pl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\pl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\pt-br.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\pt-br.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt-br.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\pt.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\pt.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ro.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ro.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ro.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ru.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ru.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ru.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sd.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sd.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sd.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\se.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\se.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\se.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\si.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\si.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\si.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sq.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sq.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sq.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sr-cyrl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sr-cyrl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr-cyrl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sr.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ss.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ss.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ss.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sv.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sv.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sv.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\sw.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\sw.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sw.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ta.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ta.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ta.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\te.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\te.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\te.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tet.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tet.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tet.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tg.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tg.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tg.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\th.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\th.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\th.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tl-ph.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tl-ph.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tl-ph.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tlh.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tlh.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tlh.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tr.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tr.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tr.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tzl.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tzl.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzl.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tzm-latn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tzm-latn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm-latn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\tzm.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\tzm.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ug-cn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ug-cn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ug-cn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\uk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\uk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\ur.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\ur.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ur.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\uz-latn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\uz-latn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz-latn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\uz.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\uz.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\vi.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\vi.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\vi.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\x-pseudo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\x-pseudo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\x-pseudo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\yo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\yo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\yo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\zh-cn.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\zh-cn.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-cn.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\zh-hk.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\zh-hk.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-hk.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\zh-mo.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\zh-mo.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-mo.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locale\\zh-tw.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locale\\zh-tw.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-tw.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locales.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locales.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locales.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locales.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locales.min.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\locales.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\locales.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\locales.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\moment\\locales.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\moment-with-locales.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\moment-with-locales.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\moment-with-locales.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\moment-with-locales.min.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\moment-with-locales.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\moment-with-locales.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\moment.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\moment.min.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\moment\\moment.min.js.map",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\moment\\moment.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js.map"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
       "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|f:\\hanpl\\ahtwork\\digital signage\\aht_digsig_hub_v3\\serverdigsig\\subscribetabledependencies\\subscribeinforgatetabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|solutionrelative:subscribetabledependencies\\subscribeinforgatetabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|f:\\hanpl\\ahtwork\\digital signage\\aht_digsig_hub_v3\\serverdigsig\\hubs\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|solutionrelative:hubs\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|f:\\hanpl\\ahtwork\\digital signage\\aht_digsig_hub_v3\\serverdigsig\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45EE4EE3-4CD1-43E3-858A-F6928D31C29C}|DigitalSignageSevice.csproj|solutionrelative:wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscribeInforGateTableDependency.cs",
+              "DocumentMoniker": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\SubscribeTableDependencies\\SubscribeInforGateTableDependency.cs",
+              "RelativeDocumentMoniker": "SubscribeTableDependencies\\SubscribeInforGateTableDependency.cs",
+              "ToolTip": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\SubscribeTableDependencies\\SubscribeInforGateTableDependency.cs",
+              "RelativeToolTip": "SubscribeTableDependencies\\SubscribeInforGateTableDependency.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEUAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:37:49.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\dashboard.js",
+              "ToolTip": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-16T07:33:23.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardHub.cs",
+              "DocumentMoniker": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\Hubs\\DashboardHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\DashboardHub.cs",
+              "ToolTip": "F:\\Hanpl\\AHTWORK\\Digital Signage\\AHT_DIGSIG_HUB_V3\\ServerDigSig\\Hubs\\DashboardHub.cs",
+              "RelativeToolTip": "Hubs\\DashboardHub.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:59:09.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
